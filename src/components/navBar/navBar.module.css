@@ -1,0 +1,16 @@
+.item a{
+    text-decoration: none;
+}
+
+.item {
+    padding: 10px;
+}
+.sidebar {
+    background-color: green;
+    height: 100px;
+    grid-area: nav;
+}
+
+a.active {
+    color: gold;
+}
